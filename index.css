@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Red+Hat+Display:ital,wght@0,500;0,700;0,900;1,700&display=swap');
+
+.{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: hsl(220, 15%, 55%);
+  font-family: sans-serif;
+  min-height: 100vh;
+  align-items: center;
+
+}
+
+.Container{
+  background-color:hsl(0, 0%, 100%);
+  border-radius: 17px;
+  padding-left: 18px;
+  margin: 100px;
+  padding-bottom: 5%;
+  width: 330px;
+}
+
+.Container img {
+  width: 310px;
+  margin-top: 4%;
+  border-radius: 12px;
+}
+
+.text1 h2{
+ text-align: center;
+ color: blue;
+ padding: 15px;
+ margin: auto;
+ font-size: large;
+ color: hsl(218, 44%, 22%);
+}
+
+.text1 p{
+  color: hsl(212, 45%, 72%);
+  font-size: large;
+  text-align: center;
+  padding: 15px;
+  margin: auto;
+  
+}
+
